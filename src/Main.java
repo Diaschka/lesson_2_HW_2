@@ -65,4 +65,8 @@ public class Main {
         System.out.println("Min: " + min + "\n" + "Max: " + max);
 
     }
+
+    //п. 6
+    //public static boolean checkBalance (array6);
+    //int[] balanceArr = {5,7,3,4,5};
 }
