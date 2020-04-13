@@ -64,8 +64,5 @@ public class Main {
         }
         System.out.println("Min: " + min + "\n" + "Max: " + max);
 
-
-
-
     }
 }
